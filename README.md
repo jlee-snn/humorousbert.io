@@ -6,9 +6,9 @@ The purpose of this project is to build model architecture for detecting humor a
 
 ### Academic Approach Has 3 Primary Objectives
 - Maximize model’s understanding of humor
-  -One recent paper achieved an F1 of .72-.98, but with much less data
+  - One recent paper achieved an F1 of [.72,.98], but with much less data
 -Explore model performance with different types / subsets of humor
-  -i.e. are puns really hard to understand relative to other jokes?
+  - i.e. are puns really hard to understand relative to other jokes?
 - Develop methods to explore how the model is understanding humor
 - Explore the transformed embeddings of jokes (jokes vs. not jokes, etc.)
 - Can we create a tool or potential product from exposing NLP encodings to data scientists?
