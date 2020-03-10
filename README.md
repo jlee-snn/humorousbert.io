@@ -1,10 +1,8 @@
 ## MIDS UC Berkeley w210: Humorous Bot Study
 
-You can use the [editor on GitHub](https://github.com/jlee-snn/humorousbert.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Introduction
+
+The purpose of this project is to build model architecture for detecting humor and examining how encoders such as ALBERT learn humor. 
 
 ### Objective
 
