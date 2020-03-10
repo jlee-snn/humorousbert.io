@@ -6,11 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Introduction
 
-content
-
 ### Objective
 
 ### Method
+
+![Data Pipeline](https://github.com/jlee-snn/humorousbert.io/DataFlow.png)
 
 ### Progress Report 1
 
