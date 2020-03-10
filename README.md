@@ -4,27 +4,23 @@ You can use the [editor on GitHub](https://github.com/jlee-snn/humorousbert.io/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+content
 
-```markdown
-Syntax highlighted code block
+### Objective
 
-# Header 1
-## Header 2
-### Header 3
+### Method
 
-- Bulleted
-- List
+### Progress Report 1
 
-1. Numbered
-2. List
+### Progress Report 2
 
-**Bold** and _Italic_ and `Code` text
+### Progress Report 3
 
-[Link](url) and ![Image](src)
-```
+### Dicussion & Analysis
+
+### Conclusion
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
