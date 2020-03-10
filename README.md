@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Method
 
-![Data Pipeline](https://github.com/jlee-snn/humorousbert.io/DataFlow.png)
+![Data Pipeline](https://github.com/jlee-snn/humorousbert.io/blob/master/DataFlow.png)
 
 ### Progress Report 1
 
