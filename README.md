@@ -1,8 +1,7 @@
 ## MIDS UC Berkeley w210: Humorous Bot Study
 
 ### Introduction
-
-The purpose of this project is to build model architecture for detecting humor and examining how encoders such as ALBERT learn humor.
+Given the exponential rate of growth of user created data, it is important to consider ways to automatically detect specific information. Our team is interested in exploring and understanding how specifically humorous content can be detected and created using deep learning based means. Furthermore, our team has shifted focus on understanding the mechanisms of training encoders with humorous text.  The purpose of this project is to build model architecture for detecting humor and examining how encoders such as ALBERT learn humor.
 
 ### Academic Approach Has 3 Primary Objectives
 - Maximize model’s understanding of humor
@@ -15,13 +14,11 @@ The purpose of this project is to build model architecture for detecting humor a
 - Review humor theory for understanding of humor and improving model performance
 
 ### Method
-
 ![Data Pipeline](https://github.com/jlee-snn/humorousbert.io/blob/master/DataFlow.png)
 
 ### Discussion & Analysis
 
 ### Conclusion
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
