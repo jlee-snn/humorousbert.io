@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MIDS UC Berkeley w210: Humorous Bot Study
 
 You can use the [editor on GitHub](https://github.com/jlee-snn/humorousbert.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
