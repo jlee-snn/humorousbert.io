@@ -17,7 +17,7 @@ Humor is very contextual and often ambiguous in construction making it harder fo
 Other papers have attempted to understand how well NLP can detect humor by predicting the humor of a joke, but we attempt to take it a step further by generating jokes and analyzing how humor is detected.
 
 ## Pipeline Overview
-
+![](pipelineoverview.PNG)
 
 ## What Can Bert Tell Us About Humor?
 Overall, there is no universally agreed upon theory of humor. 
