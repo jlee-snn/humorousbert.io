@@ -66,7 +66,7 @@ These theories seem to match how jokes are told (especially puns), but are likel
 
 Our main metric of choice is the F1 score in effort to mitigate a balance between Type I and II errors.  Thie results reveal that the model is able to classify text patterns of what is considered to be humorous jokes and puns vs. jokes and puns not considered to be funny.
 
-![](moderesults.PNG)
+![](resultsmodel.PNG)
 
 The impressive F1 score gives us confidence that BERT is able to deconstruct humor and classify it well according to some social threshold (in our case we consided jokes with over 200 upvotes to be "humorour").  Where BERT struggles it appears is generating unique humor text.  
 
