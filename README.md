@@ -18,6 +18,15 @@ Other papers have attempted to understand how well NLP can detect humor by predi
 
 ## Pipeline Overview
 ![](pipelineoverview.PNG)
+![](pipieline1.PNG)
+![](pipielinew.PNG)
+
+
+## BERT and GPT 2 Recap
+
+In our project, we focus on two deep learning concepts called BERT and GPT2.  
+![](bewvsgpt.PNG)
+![](howbertworks.PNG)
 
 ## What Can Bert Tell Us About Humor?
 Overall, there is no universally agreed upon theory of humor. 
@@ -68,6 +77,10 @@ Category | Our Model | Previous Paper | Human
 --- | --- | --- | ---
 Puns | 0.934 |0.931 | N/A
 Full Reddit Joke Dataset | 0.693 |0.724 | 0.663
+
+
+## CLoser insepction of results using BertViz
+![](visualizingmodel.PNG)
 
 
 ## Conclusion: NLP can detect the patterns of jokes and puns, but doesn’t actually “understand” humor* Achieved much better than random humor classification results using BERT
