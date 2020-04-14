@@ -66,8 +66,7 @@ These theories seem to match how jokes are told (especially puns), but are likel
 
 Our main metric of choice is the F1 score in effort to mitigate a balance between Type I and II errors.  Thie results reveal that the model is able to classify text patterns of what is considered to be humorous jokes and puns vs. jokes and puns not considered to be funny.
 
-### F1 Score Table
-Category | Our Model | Previous Paper | Human
+Category | Our Model F1 Score | Previous Paper F1 Score | Human
 --- | --- | --- | ---
 Puns | 0.934 |0.931 | N/A
 Full Reddit Joke Dataset | 0.693 |0.724 | 0.663
