@@ -38,14 +38,15 @@ Two leading theories:
 These theories seem to match how jokes are told (especially puns), but are likely too vague to build a quantitative description of humor
 
 ### Other Findings
--We filtered the r/jokes data set through BERT-MNLI (trained on Multi NLI) 
---We found that for 98% of jokes the second half of the joke was neutral or contradictory and only 2% entailment
--Highest rated Reddit jokes - similar overall pattern but still very different:
---Breaking news: Bill Gates has agreed to pay for Trump’s wall …On the condition he gets to install windows
---My girlfriend told me to take the spider out instead of killing it. We went and had some drinks. Cool guy. Wants to be a web developer.	
--Puns seem to have a much more distinctive pattern of word play
---they met in cooking class it was boil meets grill
-the violinist spent the night in a vile inn
+
+* We filtered the r/jokes data set through BERT-MNLI (trained on Multi NLI) 
+-- We found that for 98% of jokes the second half of the joke was neutral or contradictory and only 2% entailment
+* Highest rated Reddit jokes - similar overall pattern but still very different:
+-- Breaking news: Bill Gates has agreed to pay for Trump’s wall …On the condition he gets to install windows
+-- My girlfriend told me to take the spider out instead of killing it. We went and had some drinks. Cool guy. Wants to be a web developer.	
+* Puns seem to have a much more distinctive pattern of word play
+-- they met in cooking class it was boil meets grill
+-- the violinist spent the night in a vile inn
 
 ## GPT 2 Joke Generation Results
 
