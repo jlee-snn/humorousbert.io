@@ -54,3 +54,13 @@ Category | Our Model | Previous Paper | Human
 Puns | 0.934 |0.931 | N/A
 Full Reddit Joke Dataset | 0.693 |0.724 | 0.663
 
+
+## Conclusion: NLP can detect the patterns of jokes and puns, but doesn’t actually “understand” humor* Achieved much better than random humor classification results using BERT
+* Generated jokes kept joke pattern, but were not always funny
+* Modified puns test seems to suggest that good classification results are due to identifying some underlying patterns with the puns rather than actually understanding the drivers of humor
+* Results consistent with those found by Niven & Kao and others where BERT is finding some underlying spurious correlations rather than having a true understanding of humor
+
+
+## Code and Datasets
+
+All code, models, and datasets are available in the [github page](https://github.com/jlee-snn/w210-capstone-humorbot)
