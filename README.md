@@ -1,5 +1,11 @@
 # MIDS UC Berkeley w210: Humorous Bot Study
 
+Our code is available via github and along with our collab notebooks that we used to train our BERT models. 
+- (Github with flask app)[https://github.com/jlee-snn/w210-capstone-humorbot]
+- (Collab notebook BERT)[https://colab.research.google.com/drive/1By9s0CR8RMcWrKyoUxX4ZAgsWQjQ54zU?authuser=1#scrollTo=PRiF1pMk1rTs]
+- (Collab notebook GPT2)[https://colab.research.google.com/drive/1DE1iB349Ahs5QwL2yyYs_1JjAvss3cY6#scrollTo=pel-uBULXO2L]
+
+
 ## Introduction
 Given the exponential rate of growth of user created data, it is important to consider ways to automatically detect specific information. Our team is interested in exploring and understanding how specifically humorous content can be detected and created using deep learning based means. Furthermore, our team has shifted focus on understanding the mechanisms of training encoders with humorous text.  The purpose of this project is to build model architecture for detecting humor and examining how encoders such as ALBERT learn humor.
 
@@ -40,13 +46,13 @@ These theories seem to match how jokes are told (especially puns), but are likel
 ### Other Findings
 
 * We filtered the r/jokes data set through BERT-MNLI (trained on Multi NLI) 
--- We found that for 98% of jokes the second half of the joke was neutral or contradictory and only 2% entailment
+** We found that for 98% of jokes the second half of the joke was neutral or contradictory and only 2% entailment
 * Highest rated Reddit jokes - similar overall pattern but still very different:
--- Breaking news: Bill Gates has agreed to pay for Trump’s wall …On the condition he gets to install windows
--- My girlfriend told me to take the spider out instead of killing it. We went and had some drinks. Cool guy. Wants to be a web developer.	
+** Breaking news: Bill Gates has agreed to pay for Trump’s wall …On the condition he gets to install windows
+
 * Puns seem to have a much more distinctive pattern of word play
--- they met in cooking class it was boil meets grill
--- the violinist spent the night in a vile inn
+** they met in cooking class it was boil meets grill
+** the violinist spent the night in a vile inn
 
 ## GPT 2 Joke Generation Results
 
