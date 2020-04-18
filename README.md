@@ -2,8 +2,8 @@
 
 Our code is available via github and along with our collab notebooks that we used to train our BERT models. 
 - [Github with flask app](https://github.com/jlee-snn/w210-capstone-humorbot)
-- (Collab notebook BERT)(https://colab.research.google.com/drive/1By9s0CR8RMcWrKyoUxX4ZAgsWQjQ54zU?authuser=1#scrollTo=PRiF1pMk1rTs)
-- (Collab notebook GPT2)(https://colab.research.google.com/drive/1DE1iB349Ahs5QwL2yyYs_1JjAvss3cY6#scrollTo=pel-uBULXO2L)
+- [Collab notebook BERT](https://colab.research.google.com/drive/1By9s0CR8RMcWrKyoUxX4ZAgsWQjQ54zU?authuser=1#scrollTo=PRiF1pMk1rTs)
+- [Collab notebook GPT2](https://colab.research.google.com/drive/1DE1iB349Ahs5QwL2yyYs_1JjAvss3cY6#scrollTo=pel-uBULXO2L)
 
 
 ## Introduction
